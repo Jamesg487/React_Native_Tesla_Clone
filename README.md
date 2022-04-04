@@ -1,4 +1,4 @@
-# React_Native_Testla_Clone
+# React_Native_Tesla_Clone
 
 This is a project built using React Native with Expo that is a non functioning clone of the Tesla Website.
 
